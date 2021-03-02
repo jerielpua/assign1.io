@@ -1,0 +1,36 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+<title>EAST COAST PARK</title>
+<body style="background-color:lightcyan;">
+<style>
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+</style>
+</head>
+<body>
+
+<h1 style="color:forestgreen
+; text-align:center; font-size: 60px">East Coast Park</h1>
+<p style="text-align:center"> <b>Enjoy a wide array of fun-filled activities and delicious food with your friends and family in one of Singapore’s most iconic parks!</b></p>
+<img src="East.jpg" width="1000" height="650" alt="East Coast Park" title="East Coast Park">
+<br>
+<hr>
+<h2 style="text-align:center; font-size: 30px"> <u>Introduction</u></h2>
+
+<p style="text-align:center"> 
+East Coast Park is one of Singapore's most treasured urban getaways, offering an invigorating and exciting diversity of sporting, dining and recreational activities. With the theme <b> “Recreation for All” </b>, the park has an activity for everyone. 
+<br>
+Many carparks are available as seen in the picture below. For parking rates click 
+<a href="https://en.parkopedia.sg/parking/locations/E%20Coast%20Park%20Service%20Rd_w21zmxmz7g/?arriving=202103011630&leaving=202103011830">here</a>.
+</p>
+<br>
+<img src="ECP Map.jpeg" width="1500" height="350" alt="East Coast Park Map" title="East Coast Park Map"
+<hr>
+
+
+</body>
+</html>
